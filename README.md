@@ -1,6 +1,6 @@
 # DiletCombatTester
 A Combat tester for the mechanics of a game I'm working on. Uses Java and processing 3.5.3. 
-Controls: Dilet is WASD and Z to attack, Telid is IJKL and M to attack. Two hits to die!
+Controls: Dilet is WASD and Z to attack, Telid is IJKL and M to attack. Two hits to win.
 Graphics: Made with Piskel. 
 
 //Current To-Dos
