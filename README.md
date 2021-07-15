@@ -15,3 +15,5 @@ And especially the actual play area. Thinking about a class, MapTile with variab
 (PImage, access code for north exit, south, west, east, then object ID's.) Then with
 a function to load the map using the access code, generate items, enemies, etc.
 Edit 8/21/20 Finally packaged it in a .jar file. Back to working on content after figuring that absolute disaster out :)
+Note: project abandoned due to it being clunky af. Time to move on to unity. 
+Note 2: No one has ever seen this i swear if you do report an issue
