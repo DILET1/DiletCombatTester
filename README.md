@@ -7,3 +7,4 @@ Note: project abandoned due to it being clunky af. Time to move on to unity.
 Note 2: No one has ever seen this i swear if you do report an issue
 Note 3: COde is being re-activated for a top-down exploration game, stay tuned!!!!!!!!!!!!!!!!!!!!!!!!!!! (OR DON'T, YOU AREN'T SUPPOSED TO BE HERE GO AWAY!)
 Note 4: One day... I promise. Before 2035. 
+(It did)
